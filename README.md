@@ -127,4 +127,3 @@ Make your changes
 
 Submit a pull request
 
-For major changes, open an issue first to discuss improvements.

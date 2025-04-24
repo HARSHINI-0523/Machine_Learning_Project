@@ -33,7 +33,7 @@ The project uses a publicly available **Thyroid Disease dataset**, which contain
 - TSH, T3, TT4, T4U, FTI hormone levels  
 - Target class indicating thyroid status (e.g., negative, hyperthyroid, hypothyroid)
 
-📥 **Download Dataset**: [https://l1nk.dev/td-dataset](https://l1nk.dev/td-dataset)
+📥 **Download Dataset**: [Dataset](https://drive.google.com/drive/folders/1wC5gH1uMrjdCQl_r9Ool589YcgWGQaGy?usp=drive_link)
 
 Preprocessing includes:
 - Handling missing values
